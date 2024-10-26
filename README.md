@@ -21,3 +21,7 @@ npm install
 ### 5.安装Nuxt UI
 
 npx nuxi@latest module add ui
+
+### 6.最后就可以启动测试环境啦
+
+npm run dev
