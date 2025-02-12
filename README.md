@@ -6,9 +6,9 @@
 
 cd /.../course
 
-### 2.创建nuxt初始化文件，注意把<>一起替换为你想要取的产品名字
+### 2.创建nuxt初始化文件，注意把TemplateProductName替换为你想要取的产品名字
 
-npx nuxi@latest init <TemplateProductName>
+npx nuxi@latest init TemplateProductName
 
 ### 3.进入项目文件夹
 
